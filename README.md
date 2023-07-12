@@ -41,7 +41,7 @@ Implemented EM algorithm and estimated model parameters with initial estimates a
 • Use ˆσ1 = ˆσ2 = standardDev(y).
 
 Deliverables:
-• A plot of the (marginal) log-likelihood as a function of iteration number. Terminated when the log-likelihood increases by less than 10−4.
+• A plot of the (marginal) log-likelihood as a function of iteration number. Terminated when the log-likelihood increases by less than 10^−4.
 • The estimated model parameters.
 • A plot showing the data and estimated lines together.
 
