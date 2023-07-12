@@ -8,9 +8,9 @@ Used the spambase datasets which each have 58 columns: the first 57 columns are 
 
 ## SVM and LDA
 
-Implemented the soft-margin SVM using batch gradient descent and stochastic gradient descent, with a learning rate for j iterations as a(j) = n / (1 + j*n). Plotted the training accuracy over iterations using the digits_training/test_data/labels.csv files. Also implemented the soft-margin SVM with the RBF kernel, reported training and test accuracy, as well as 5 missclassified test images (still using digits datasets).
+Implemented the soft-margin SVM using batch gradient descent and stochastic gradient descent, with a learning rate for j iterations as a(j) = n / (1 + j*n). Plotted the training accuracy over iterations using the digits_training/test_data/labels.csv files. Also implemented the soft-margin SVM with the RBF kernel, reported training and test accuracy, as well as 5 misclassified test images (still using digits datasets).
 
-Implemented linear discriminant analysis, reported training and test accuracy, as well as 5 missclassified test images (still using digits datasets).
+Implemented linear discriminant analysis, reported training and test accuracy, as well as 5 misclassified test images (still using digits datasets).
 
 ## Kernelized Ridge Regression
 
